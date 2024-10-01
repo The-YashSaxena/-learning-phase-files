@@ -1,0 +1,36 @@
+.barset {
+    display: flex;
+    justify-content: space-around;
+    height: 70px;
+    align-items: center;
+    background-color: aquamarine;
+}
+
+.bar-items {
+    display: flex;
+    list-style-type: none;
+    gap: 10px;
+    
+}
+
+
+/* em and rem */
+.container {
+    font-size: 30px;
+    text-align: center;
+}
+
+.second {
+    font-size: 2em;
+}
+
+.third {
+    font-size: 3em;
+}
+
+
+
+
+
+
+
